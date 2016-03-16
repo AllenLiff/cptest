@@ -106,11 +106,21 @@ Slider
                                    background-image: url(../img/madison.jpg);
                                      background-position: top;
 }
+
 .cd-slider li:nth-of-type(4) .image {
   background-image: url(../img/grant4.jpg);
    background-position: top;
    background-size: cover;
 }
+
+
+
+.cd-slider li:nth-of-type(5) .image {
+  background-image: url(../img/grant4.jpg);
+   background-position: top;
+   background-size: cover;
+}
+
 .cd-slider .image {
   background-size: cover;
 }
