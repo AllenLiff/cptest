@@ -90,12 +90,12 @@ Slider
 }
 .cd-slider li:first-of-type .image {
   /*background-image: url(../img/img-1.jpg); */
-                                  background-image: url(file:///C:/Users/Allen/Documents/Create%20Plenty/Benson%20Audit/benson.JPG);
+                                  background-image: url(../img/Benson.JPG);
                                   background-position: top;
 }
 .cd-slider li:nth-of-type(2) .image {
   /*background-image: url(../img/img-2.jpg);*/
-                                   background-image: url(file:///C:/Users/Allen/Documents/Create%20Plenty/Lincoln%20Audit/2016%20audits/a.JPG);
+                                   background-image: url(../img/a.JPG);
                                    /*background-size: 100% 600px;*/
                                         /*background-size: 190%;*/
                                      background-position: top;
@@ -103,11 +103,11 @@ Slider
 }
 .cd-slider li:nth-of-type(3) .image {
   /*background-image: url(../img/img-3.jpg);*/
-                                   background-image: url(file:///C:/Users/Allen/Documents/Create%20Plenty/TourdeTrash/madison.jpg);
+                                   background-image: url(../img/madison.jpg);
                                      background-position: top;
 }
 .cd-slider li:nth-of-type(4) .image {
-  background-image: url(file:///C:/Users/Allen/Documents/Create%20Plenty/Front%20Page/Grant%202014-15/gran99.jpg);
+  background-image: url(../img/grant4.jpg);
    background-position: top;
    background-size: cover;
 }
